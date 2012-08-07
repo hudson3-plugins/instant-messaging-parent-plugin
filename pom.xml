@@ -177,8 +177,8 @@
     </build>
       
     <scm>
-        <connection>scm:git:github.com:jenkinsci/instant-messaging-parent-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jenkinsci/instant-messaging-parent-plugin.git</developerConnection>
-        <url>https://github.com/jenkinsci/instant-messaging-parent-plugin</url>
+        <connection>scm:git:github.com:hudson3-plugins/instant-messaging-parent-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:hudson3-plugins/instant-messaging-parent-plugin.git</developerConnection>
+        <url>https://github.com/hudson3-plugins/instant-messaging-parent-plugin</url>
     </scm>
 </project>
