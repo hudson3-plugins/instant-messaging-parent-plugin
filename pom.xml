@@ -9,7 +9,7 @@
         <groupId>org.hudsonci.plugins</groupId>
         <artifactId>instant-messaging-parent</artifactId>
 	<name>Parent project for all instant-messaging plugins</name>
-	<version>3.0.0-M4-SNAPSHOT</version>
+	<version>3.0.0-M4</version>
 	<packaging>pom</packaging>
         <url>http://wiki.hudson-ci.org/display/HUDSON/Instant+Messaging+Plugin</url>
 	<developers>
