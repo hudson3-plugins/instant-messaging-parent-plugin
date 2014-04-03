@@ -3,13 +3,13 @@
 	<parent>
         <groupId>org.eclipse.hudson.plugins</groupId>
         <artifactId>hudson-plugin-parent</artifactId>
-        <version>3.0.0-M4</version>
+        <version>3.2.0-SNAPSHOT</version>
     </parent>
 
         <groupId>org.hudsonci.plugins</groupId>
         <artifactId>instant-messaging-parent</artifactId>
 	<name>Parent project for all instant-messaging plugins</name>
-	<version>3.0.0-M5-SNAPSHOT</version>
+	<version>3.2.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
         <url>http://wiki.hudson-ci.org/display/HUDSON/Instant+Messaging+Plugin</url>
 	<developers>
